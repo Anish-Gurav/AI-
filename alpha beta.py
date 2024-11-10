@@ -7,7 +7,7 @@
 
 
 
-# In[ ]:
+# In[ ]: 
 
 
 def alpha_beta(node,depth,a,b,maximizing_player):
