@@ -1,4 +1,4 @@
-# 5. Implement Greedy search algorithm for any of the following application: Selection Sort   
+# 5. Implement Greedy search algorithm for any of the following application: Selection Sort    
 class Job:
     def __init__(self, job_id, deadline, profit):
         self.job_id = job_id
