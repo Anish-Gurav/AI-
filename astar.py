@@ -2,7 +2,7 @@
 # coding: utf-8 
  
 # In[1]:
-
+ 
 
 def aStarAlgo(start_node, stop_node):
          
